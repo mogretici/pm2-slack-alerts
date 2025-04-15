@@ -2,7 +2,10 @@
 
 A PM2 module that sends formatted Slack notifications for process events like `start`, `stope`, `restart` and more — with support for clustering, user mentions, resource usage, and per-app webhook overrides.
 
----
+![npm](https://img.shields.io/npm/v/pm2-slack-alerts)
+![license](https://img.shields.io/npm/l/pm2-slack-alerts)
+![downloads](https://img.shields.io/npm/dm/pm2-slack-alerts)
+![issues](https://img.shields.io/github/issues/mogretici/pm2-slack-alerts)
 
 ## 🚀 Features
 
