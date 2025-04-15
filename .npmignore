@@ -1,0 +1,22 @@
+# Typescript source files
+src/
+tsconfig.json
+tsconfig.*.json
+
+# Git-related
+.git/
+.gitignore
+
+# Editor config
+.vscode/
+.idea/
+
+# Test files
+tests/
+*.test.ts
+*.spec.ts
+
+# Misc
+.DS_Store
+Thumbs.db
+README.updated.md

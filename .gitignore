@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Optional: OS / system-specific
+Thumbs.db
